@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SodaAdvisor</string>
+    <string name="find_soda">Find Soda!</string>
+    <string name="brands">No soda selected</string>
+
+<!--    Добавление массива строк для выпадающего списка-->
+    <string-array name="soda_colors">
+        <item>Green</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Pink</item>
+    </string-array>
+
+</resources>
